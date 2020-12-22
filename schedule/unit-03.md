@@ -23,7 +23,7 @@ Please upload the training certificate (and the assignment 3, if you decide to d
 ### Synchronous discussion agenda
 * Discuss answers to the assignment (15 minutes)
 * Discuss paper (10 minutes)
-* Split into breakout groups to discuss the following: \[Cristian\]
+* Split into breakout groups to discuss the following:
 	
 	> *“Imagine you are the head of engineering for a software company. Based on reports from customers, you are aware of some usability issues in the latest version of your product. How would you go about designing a study to determine how prevalent this problem is across your user base?”*
 

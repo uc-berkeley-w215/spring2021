@@ -34,6 +34,6 @@ Please upload both files (your slides and the document where you wrote your answ
 
   - > Address those questions about ethics training that can’t wait until everyone has completed it
 
-  - > Discuss readings
+  - > Discussion of readings
 
   - > Discussion of questions if time available (assignment part 3)

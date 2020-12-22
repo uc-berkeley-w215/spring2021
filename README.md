@@ -6,16 +6,14 @@
 
 ### Office hours
 
-  - Tuesdays @4:00pm Pacific via [zoom](https://zoom.us/s/94498838438) <!-- TODO: Zoom meeting ID -->
+  - Tuesdays @4:00pm Pacific
 
 ### Slack channel
 
-  - [**ucbischool**](https://ucbischool.slack.com), channel #w215-\[semester\]-2020.
-<!-- TODO: Date -->
+  - [**ucbischool**](https://ucbischool.slack.com), channel #w215-spring-2021.
 
 ### Instructors
 
-<!-- TODO: Instructor list -->
  -  Cristian Bravo-Lillo, cbravolillo \<a\> berkeley.edu
  -  Saranga Komanduri, komanduri \<a\> berkeley.edu
 
@@ -119,19 +117,17 @@ When it’s your turn to lead the 10-15 minute discussion of the paper, you'll w
 
 # [Schedule](/schedule)
 
-<!-- TODO: Dates -->
-
- - [Unit 1: Human–Computer Interaction](./schedule/unit-01.md) (*August 27*)
- - [Unit 2: Studying Decision making](./schedule/unit-02.md) (*September 3*)
- - [Unit 3: Research Methods: Experimental](./schedule/unit-03.md) (*September 10*)
- - [Unit 4: Research Methods: Descriptive and Relational](./schedule/unit-04.md) (*September 17*)
- - [Unit 5: Statistics](./schedule/unit-05.md) (*September 24*)
- - [Unit 6: Usable Security](./schedule/unit-06.md) (*October 1*)
- - [Unit 7: Privacy](./schedule/unit-07.md) (*October 8*)
- - [Unit 8: Midterm](./schedule/unit-08.md) (*October 15*)
- - [Unit 9: Authentication & Trusted Path](./schedule/unit-09.md) (*October 22*)
- - [Unit 10: Access Control](./schedule/unit-10.md) (*October 29*)
- - [Unit 11: Warnings](./schedule/unit-11.md) (*November 5*)
- - [Unit 12: Mobile Permissions](./schedule/unit-12.md) (*November 19*)
- - [Unit 13: Secure Communication](./schedule/unit-13.md) (*December 3*)
- - [Unit 14: Privacy Policies](./schedule/unit-14.md) (*December 10*)
+ - [Unit 1: Human–Computer Interaction](./schedule/unit-01.md) (*January 4*)
+ - [Unit 2: Studying Decision making](./schedule/unit-02.md) (*January 11*)
+ - [Unit 3: Research Methods: Experimental](./schedule/unit-03.md) (*January 25*)
+ - [Unit 4: Research Methods: Descriptive and Relational](./schedule/unit-04.md) (*February 1*)
+ - [Unit 5: Statistics](./schedule/unit-05.md) (*February 8*)
+ - [Unit 6: Usable Security](./schedule/unit-06.md) (*February 22*)
+ - [Unit 7: Privacy](./schedule/unit-07.md) (*March 1*)
+ - [Unit 8: Midterm](./schedule/unit-08.md) (*TBD*)
+ - [Unit 9: Authentication & Trusted Path](./schedule/unit-09.md) (*March 8*)
+ - [Unit 10: Access Control](./schedule/unit-10.md) (*March 15*)
+ - [Unit 11: Warnings](./schedule/unit-11.md) (*March 22*)
+ - [Unit 12: Mobile Permissions](./schedule/unit-12.md) (*March 29*)
+ - [Unit 13: Secure Communication](./schedule/unit-13.md) (*April 5*)
+ - [Unit 14: Privacy Policies](./schedule/unit-14.md) (*April 12*)
