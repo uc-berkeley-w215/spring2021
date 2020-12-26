@@ -2,11 +2,11 @@
 
 ### Sync Section
 
-  - Mondays @4:00pm Pacific
+  - Mondays @ 4:00 p.m. Pacific
 
 ### Office hours
 
-  - Tuesdays @4:00pm Pacific
+  - Tuesdays @ 4:00 p.m. Pacific
 
 ### Slack channel
 

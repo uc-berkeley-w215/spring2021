@@ -1,5 +1,7 @@
 # Assignments
 
+This page summarizes the assignments in this course. For each assignment, please follow the links for full instructions.
+
 * **Assignment 1** (individual): Submit a list of three user interfaces or user experiences related to security or privacy that you find most infuriating.  Due on [Week 1](/schedule/unit-01.md). Upload a PDF to the slot "*Assignment 1*" in ISVC.
 
 * **Assignment 2** (individual): Submit a slide or two with your selection of a cognitive bias and how it would impact users' security or privacy behavior. Due on [Week 2](/schedule/unit-02.md). Upload your slides as a PDF to the slot "*Assignment 2*" in ISVC.

@@ -1,6 +1,6 @@
 # Assignment: Calculate an experiment's sample-size requirement
 
-[<span class="underline">Sample size determination</span>](https://en.wikipedia.org/wiki/Sample_size_determination) (AKA power analysis) is the process of calculating the number of participants an experiment will require to reach statistical significance under assumptions (guesses) about size of the effect that will be observed.
+[<span class="underline">Sample size determination</span>](https://en.wikipedia.org/wiki/Sample_size_determination) (AKA power analysis) is the process of calculating the number of participants an experiment will require to reach statistical significance under assumptions (guesses) about the size of the effect that will be observed.
 
 For this assignment, imagine that students in W215 propose a course project to test whether users will be more likely to comply with a warning if a popular 80s adjective is used to highlight which option is safe (e.g. not installing unsafe software the user has just downloaded) and which option is unsafe (e.g. installing the software).
 

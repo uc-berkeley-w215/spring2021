@@ -1,4 +1,4 @@
-# Papers led during W215/Fall 2020 <!-- TODO: Date -->
+# Papers led during W215/Spring 2021
 
 We will track who has led paper discussions here.
 
