@@ -5,7 +5,7 @@
   - Lazar et al., **Skim** Chapter 1: “Introduction” (or just read the end-of-chapter summary)
   - Lazar et al., Chapter 2: “Experimental Research”
   - [<span class="underline">Password Security, A Case History</span>](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.1635&rep=rep1&type=pdf), by Morris and Thompson, which describes an early experiment in computer security.
-  - [<span class="underline">Simson Garfinkel’s Thesis</span>](https://simson.net/thesis/), Chapter 1.1–1.5, pp. 13–34, and Chapter 10.3 Patterns for Overall Security
+  - [<span class="underline">Simson Garfinkel’s Thesis</span>](https://simson.net/thesis/), Chapter 1.1–1.5, pp. 13–30, and Chapter 10.3 Patterns for Overall Security
 
 
 
