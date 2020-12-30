@@ -6,7 +6,7 @@
 
 ### Office hours
 
-  - Tuesdays @ 4:00 p.m. Pacific
+  - Tuesdays @ 4:00 p.m. Pacific or by appointment from 3:00 p.m. to 5:00 p.m. Pacific
 
 ### Slack channel
 
