@@ -11,12 +11,9 @@
 
 ### Assignments due
 
-Complete the IRB training by following the instructions here: [https://cphs.berkeley.edu/training.html](https://cphs.berkeley.edu/training.html). Make sure that you complete the “Group 2 (soc-behav) Human Subjects Curriculum.” Submit a PDF of your completion certificate as proof of completion.
+Perform an [heuristic evaluation assigment](../assignments/heuristic-evaluation.md) of a security feature in your web browser or on a website.
 
-This week there is also an optional assignment. You may do the [heuristic evaluation assigment](../assignments/heuristic-evaluation.md) for extra-credit - that is, if you do it, you will get the credit for it added in place of credit lost on other past or future assignments.
-
-Please upload the training certificate (and the assignment 3, if you decide to do it) in the slot "*Assignment 3*" in ISVC.
-
+Also: remember to work on your IRB training, due on [Week 4](./schedule/unit-04.md).
 
 
 
