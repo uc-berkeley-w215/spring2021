@@ -14,7 +14,9 @@
 
 ### Assignments due
 
-Complete breakout group mini-project proposal from Unit 3. One member of the group must upload the group slides in slot "Assignment 4" in ISVC. It's not necessary that everyone uploads the same slides, as long as the slides clearly identify all members of the group.
+Complete the IRB training by following the instructions here: [https://cphs.berkeley.edu/training.html](https://cphs.berkeley.edu/training.html). Make sure that you complete the "Group 2 (soc-behav) Human Subjects Curriculum." Please upload the training certificate in the slot "*Assignment 4*" in ISVC.
+
+Complete breakout group mini-project proposal from Unit 3. You and your group should prepare a small set of slides to present the results of your discussion. You don't need to submit your slides.
 
 
 
