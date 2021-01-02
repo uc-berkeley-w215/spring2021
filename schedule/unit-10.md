@@ -7,7 +7,6 @@ Readings to be presented will be shown here. Please send a message to the instru
 
 
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
-- Anderson, R. (2008) *Security engineering: A guide to building dependable distributed systems*. Chapter 4. https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-c04.pdf
 
 - Bauer, L., Cranor, L. F., Reeder, R. W., Reiter, M. K., & Vaniea, K. (2009, April). [Real life challenges in access-control management](https://www.archive.ece.cmu.edu/~lbauer/papers/2009/chi09-management.pdf). Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI.
 
@@ -17,10 +16,14 @@ Readings to be presented will be shown here. Please send a message to the instru
 
 - Johnson, M. L., Bellovin, S. M., Reeder, R. W., & Schechter, S. E. (2009). [Laissez-faire file sharing: Access control designed for individuals at the endpoints](https://academiccommons.columbia.edu/doi/10.7916/D8D79J6W/download). *New Security Paradigms Workshop*, NSPW.    
 
-- Maxion, R. A., & Reeder, R. W. (2005). Improving user-interface dependability through mitigation of human error. *International Journal of Human–Computer Studies, 63*(1–2), 25–50. http://www.robreeder.com/pubs/salmonIJHCS2005.pdf
-
 - Mazurek, M. L., Arsenault, J. P., Bresee, J., Gupta, N., Ion, I., Johns, C., . . . Reiter, M. K. (2010). *Access control for home data sharing: Attitudes, needs and practices.* Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, ACM. https://www.archive.ece.cmu.edu/~lbauer/papers/2010/chi2010-home-access-control.pdf
 
+
+### Optional readings (if you're really interested in this topic)
+
+- Anderson, R. (2008) *Security engineering: A guide to building dependable distributed systems*. Chapter 4. https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-c04.pdf
+
+- Maxion, R. A., & Reeder, R. W. (2005). Improving user-interface dependability through mitigation of human error. *International Journal of Human–Computer Studies, 63*(1–2), 25–50. http://www.robreeder.com/pubs/salmonIJHCS2005.pdf
 
 
 ### Assignments due
