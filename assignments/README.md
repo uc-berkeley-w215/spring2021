@@ -6,7 +6,7 @@ This page summarizes the assignments in this course. For each assignment, **plea
 
 * **Assignment 2** (individual): Submit a slide or two with your selection of a cognitive bias and how it would impact users' security or privacy behavior. Due on [Week 2](/schedule/unit-02.md). Upload your slides as a PDF to the slot "*Assignment 2*" in ISVC.
 
-* **Assignment 3** (individual): Perform an [heuristic evaluation](/assignments/heuristic-evaluation.md) of a security feature. If you decide to do it, please upload a PDF document with your work to the slot "*Assignment 3*" in ISVC.
+* **Assignment 3** (individual): Perform an [heuristic evaluation](/assignments/heuristic-evaluation.md) of a security feature. Please upload a PDF document with your work to the slot "*Assignment 3*" in ISVC.
 
 * **Assignment 4** (individual): Complete your IRB training and upload the certificate to the slot "*Assignment 4*" in ISVC. Due on [Week 4](/schedule/unit-04.md). Upload your certificate as a PDF to the slot "*Assignment 4*" in ISVC.
 
