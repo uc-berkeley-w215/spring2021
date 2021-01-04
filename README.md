@@ -55,7 +55,7 @@ Completion of at least one of the three core courses for the MICS degree program
 
   - Async responses and reflections (10%)
   - Live session participation (20%)
-    - You will lead the discussion of 1-3 papers (depending on course enrollment)
+    - You will lead the discussion of 2-3 papers (depending on course enrollment)
   - Assignments (10%)
     - Traditional homeworks
     - Acting as reviewer or pilot participant for other teams’ course projects
