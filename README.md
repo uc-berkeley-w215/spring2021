@@ -75,7 +75,7 @@ We encourage studying in groups of two to four people. This applies to working o
 
 ## Assignments
 
-Please check the [list of assignments](/assignments/). Up to the midterm on Week 8, there is one assignment per week. After the midterm, most of the work is devoted to group projects. When homework is assigned, it will be due two hours before the beginning of the live session.
+Please check the [list of assignments](/assignments/). Up to the midterm on Week 8, there is one assignment per week. After the midterm, most of the work is devoted to group projects. When homework is assigned, **it will be due 24 hours before the beginning of the live session**.
 
 
 
