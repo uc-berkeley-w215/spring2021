@@ -12,7 +12,7 @@ This page summarizes the assignments in this course. For each assignment, **plea
 
 * **Assignment 5** (individual): Perform a [sample-size determination](/assignments/sample-size.md). Due on [Week 5](/schedule/unit-05.md). Please upload the slides to the slot "*Assignment 5*" in ISVC.
 
-* **Assignment 6** (individual): Submit a proposed course project idea to present it to the rest of the class. Due on [Week 6](/schedule/unit-06.md). Please upload a PDF document with your idea to the slot "*Assignment 5*" in ISVC.
+* **Assignment 6** (individual): Submit a proposed course project idea to present it to the rest of the class. Due on [Week 6](/schedule/unit-06.md). Please upload a PDF document with your idea to the slot "*Assignment 6*" in ISVC.
 
 * **Assignment 7** (individual): [Identify flaws in a study design](/assignments/study-design-flaws.md). Due on [Week 7](/schedule/unit-07.md). Please upload a PDF document with your work to the slot **"Assignment 7"** in ISVC.
 
