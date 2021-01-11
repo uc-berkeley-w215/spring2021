@@ -53,13 +53,12 @@ Completion of at least one of the three core courses for the MICS degree program
 
 ## Course Evaluation
 
-  - Async responses and reflections (10%)
-  - Live session participation (20%)
+  - Async responses and reflections (15%)
+  - Live session participation (30%)
     - You will lead the discussion of 2-3 papers (depending on course enrollment)
-  - Assignments (10%)
+  - Assignments (15%)
     - Traditional homeworks
     - Acting as reviewer or pilot participant for other teams’ course projects
-  - Midterm (20%)
   - [Final project](/project/) (40%)
 
 Extra credit:
@@ -75,7 +74,7 @@ We encourage studying in groups of two to four people. This applies to working o
 
 ## Assignments
 
-Please check the [list of assignments](/assignments/). Up to the midterm on Week 8, there is one assignment per week. After the midterm, most of the work is devoted to group projects. When homework is assigned, **it will be due 2 hours before the beginning of the live session**.
+Please check the [list of assignments](/assignments/). Up to Week 7, there is one assignment per week. After Week 7, most of the work is devoted to group projects. When homework is assigned, **it will be due 2 hours before the beginning of the live session**.
 
 
 
@@ -124,7 +123,7 @@ When it’s your turn to lead the 10-15 minute discussion of the paper, you'll w
  - [Unit 5: Statistics](./schedule/unit-05.md) (*February 8*)
  - [Unit 6: Usable Security](./schedule/unit-06.md) (*February 22*)
  - [Unit 7: Privacy](./schedule/unit-07.md) (*March 1*)
- - [Unit 8: Midterm](./schedule/unit-08.md) (*TBD*)
+ - Unit 8: N/A - No midterm this semester
  - [Unit 9: Authentication & Trusted Path](./schedule/unit-09.md) (*March 8*)
  - [Unit 10: Access Control](./schedule/unit-10.md) (*March 15*)
  - [Unit 11: Warnings](./schedule/unit-11.md) (*March 22*)

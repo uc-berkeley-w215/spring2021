@@ -17,8 +17,6 @@
 
 ### Synchronous discussion agenda
 
-  - Questions about midterm (10 minutes)
-
   - Response to assignment (15 minutes)
 
   - Paper discussion (45 minutes)
