@@ -27,7 +27,7 @@ For this course, you will have to complete the IRB training that is mandatory fo
 
       - Seminar style (explain what that means)
 
-      - The midterm, project, and class participation dominate grading
+      - The project, assignments, and class participation dominate grading
 
       - Project: get started early and expect lots of bugs, even the pros require many iterations (and still mess things up in the final problem)
 
