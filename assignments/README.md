@@ -16,4 +16,4 @@ This page summarizes the assignments in this course. For each assignment, **plea
 
 * **Assignment 7** (individual): [Identify flaws in a study design](/assignments/study-design-flaws.md). Due on [Week 7](/schedule/unit-07.md). Please upload a PDF document with your work to the slot **"Assignment 7"** in ISVC.
 
-* **Project proposal** (group): Submit your project proposals 24 hours before the class on [Week 8](../schedule/unit-08.md). One person in each group must upload a PDF with the group's project proposal to the slot "*Project proposal*" in ISVC.
+* **Project proposal** (group): Submit your project proposals 24 hours before the class on [Week 8](../schedule/unit-09.md). One person in each group must upload a PDF with the group's project proposal to the slot "*Project proposal*" in ISVC.
