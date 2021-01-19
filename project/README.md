@@ -2,7 +2,7 @@
 
 **Quick links**:
 
-- [Last term's list of projects](https://github.com/uc-berkeley-w215/summer2020/blob/master/project/list-of-projects.md) <!-- TODO: Date -->
+- [List of projects for Summer 2020 term](https://github.com/uc-berkeley-w215/summer2020/blob/master/project/list-of-projects.md)
 - [List of project ideas](./ideas.md)
 - [Tips on helping others with their projects](./helping-others.md)
 - [Collaborating with Qualtrics](/project/tools/qualtrics)
