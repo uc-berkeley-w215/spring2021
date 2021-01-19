@@ -10,7 +10,7 @@
 
 ### Assignments due
 
-  - Make progress on your course project
+  - **Project proposals due 2 hours before class.**
 
 ### Synchronous discussion agenda
 

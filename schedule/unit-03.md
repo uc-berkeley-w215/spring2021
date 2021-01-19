@@ -13,7 +13,7 @@
 
 Perform an [heuristic evaluation assigment](../assignments/heuristic-evaluation.md) of a security feature in your web browser or on a website.
 
-Also: remember to work on your IRB training, due on [Week 4](./schedule/unit-04.md).
+Also: remember to work on your IRB training, due on [Week 4](./unit-04.md).
 
 
 
