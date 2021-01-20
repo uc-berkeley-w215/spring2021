@@ -30,8 +30,6 @@ The class will be split into groups of 3 students, so that each group designs a 
 
 1. *Photo-sharing software*: users complain upon discovering that all of their photos are publicly-accessible.
 
-1. *Application Programming Interface (API) for Cryptographic Operations*: a measurement study shows that most applications use the API incorrectly, resulting in insecure software built around the API.
-
 1. *Secure messaging software*: users complain about not understanding how to verify that the people with whom they communicate via the software are the people they believe them to be. Some people have even reported cases of impersonation.
 
 1. *Social media authentication*: users complain that they cannot log into their accounts when they have multiple devices.
