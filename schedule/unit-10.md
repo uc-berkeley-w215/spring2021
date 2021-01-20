@@ -8,7 +8,7 @@ Readings to be presented will be shown here. Please send a message to the instru
 
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
 
-- Bauer, L., Cranor, L. F., Reeder, R. W., Reiter, M. K., & Vaniea, K. (2009, April). [Real life challenges in access-control management](https://www.archive.ece.cmu.edu/~lbauer/papers/2009/chi09-management.pdf). Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI.
+- Bauer, L., Cranor, L. F., Reeder, R. W., Reiter, M. K., & Vaniea, K. (2009, April). [Real life challenges in access-control management](https://www.archive.ece.cmu.edu/~lbauer/papers/2009/chi09-management.pdf). Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI.  **Discussion lead: Lucia Milica Stacy**
 
 - Johnson, M. L., Bellovin, S. M., Reeder, R. W., & Schechter, S. E. (2009). [Laissez-faire file sharing: Access control designed for individuals at the endpoints](https://academiccommons.columbia.edu/doi/10.7916/D8D79J6W/download). *New Security Paradigms Workshop*, NSPW.    
 
