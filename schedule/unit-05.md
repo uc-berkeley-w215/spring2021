@@ -22,7 +22,6 @@
 
 ### Synchronous discussion agenda
 
-  - Discuss sample size assignment and its implications for projects (15 minutes)
-  - Readings (\~45 minutes, 15-minutes each), note problem/hypothesis statements
+  - Discuss statistical concepts and sample size assignment and its implications for projects (30 minutes)
+  - Readings (15-minutes each), note problem/hypothesis statements
   - Further description of course projects (remaining time)
-
