@@ -16,7 +16,7 @@ Q: What security and privacy concerns do users cite for not yet having adopted \
 
 Q: What steps do people in long-distance relationships take to protect their intimate communications: e.g., are they using a separate dedicated device for this communication, being more careful about how they choose vendors, investigating vendors reputations, adding additional network protections? (Interview, or Survey)
 
-Q: What fraction of users who install password managers use a random master password, use a password they've used before, or use a new chosen parrots (or variant on theme they've used before).
+Q: What fraction of users who install password managers use a random master password, use a password they've used before, or use a new chosen password (or variant on theme they've used before).
 
 Q: What fraction of users of password managers actually use them to replace replicated passwords from their pre password manager days with random passwords?
 
