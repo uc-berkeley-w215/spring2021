@@ -4,7 +4,7 @@
 
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
 
-- [A Week to Remember: The Impact of Browser Warning Storage Policies](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-weinberger.pdf), by Weinberger and Felt.
+- [A Week to Remember: The Impact of Browser Warning Storage Policies](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-weinberger.pdf), by Weinberger and Felt. **Discussion lead: Bill Duttweiler**
 
 - [You’ve Been Warned: An Empirical Study of the Effectiveness of Web Browser Phishing Warnings](http://www.guanotronic.com/~serge/papers/warned.pdf), by Egelman et al.
 
