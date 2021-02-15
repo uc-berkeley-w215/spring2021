@@ -2,9 +2,11 @@
 
 We will track who has led paper discussions here.
 
-* **Lisa Simpson**:
-  * "The Emperor’s New Security Indicators: An Evaluation of Website Authentication and the Effect of Role Playing on Usability Studies", by Schechter et al., on Unit 3 (Sept/10). This paper was rehearsed and the recording sent to us before the class.
-  
-* **Bart Simpson**:
-  * "I was told to buy a software or lose my computer. I ignored it": A study of ransomware, by Simoiu et al. (2019), on Unit 9 (Oct/22).
+* **Omar Garcia**:
+  * Experimenting at Scale With Google Chrome’s SSL Warning, by Felt et al. (2014).
 
+* **Ryan Tenorio**:
+  * Using Fingerprint Authentication to Reduce System Security: An Empirical Study, by Wimberly and Liebrock.
+
+* **Yi Zhang**:
+  * The Emperor’s New Security Indicators: An Evaluation of Website Authentication and the Effect of Role Playing on Usability Studies, by Schechter et al. This paper was rehearsed and the recording sent to us before the class.
