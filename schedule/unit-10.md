@@ -2,13 +2,13 @@
 
 ### Readings to be presented
 
-Readings to be presented will be shown here. Please send a message to the instructors to let them know which reading you will present.
+- Bauer, L., Cranor, L. F., Reeder, R. W., Reiter, M. K., & Vaniea, K. (2009, April). [Real life challenges in access-control management](https://users.ece.cmu.edu/~lbauer/papers/2009/chi09-management.pdf). Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI.  **Discussion lead: Lucia Milica Stacy**
+
+- He, W., Golla, M., Padhi, R., Ofek, J., Durmuth, M., Fernandes, E., & Ur, B. (2018). [Rethinking access control and authentication for the home internet of things (IoT)](https://www.blaseur.com/papers/usenixsec18.pdf). Proceedings of the 27th USENIX Security Symposium (USENIX Security 18). **Discussion lead: Shawn Blue**
 
 
 
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
-
-- Bauer, L., Cranor, L. F., Reeder, R. W., Reiter, M. K., & Vaniea, K. (2009, April). [Real life challenges in access-control management](https://users.ece.cmu.edu/~lbauer/papers/2009/chi09-management.pdf). Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI.  **Discussion lead: Lucia Milica Stacy**
 
 - Johnson, M. L., Bellovin, S. M., Reeder, R. W., & Schechter, S. E. (2009). [Laissez-faire file sharing: Access control designed for individuals at the endpoints](https://academiccommons.columbia.edu/doi/10.7916/D8D79J6W/download). *New Security Paradigms Workshop*, NSPW.    
 
@@ -16,7 +16,6 @@ Readings to be presented will be shown here. Please send a message to the instru
 
 - Jaferian, P., Rashtian, H., & Beznosov, K. (2014). [To authorize or not authorize: Helping users review access policies in organizations.](https://www.usenix.org/system/files/conference/soups2014/soups14-paper-jaferian.pdf) Proceedings of the 10th Symposium on Usable Privacy and Security, SOUPS.
 
-- He, W., Golla, M., Padhi, R., Ofek, J., Durmuth, M., Fernandes, E., & Ur, B. (2018). [Rethinking access control and authentication for the home internet of things (IoT)](https://www.blaseur.com/papers/usenixsec18.pdf). Proceedings of the 27th USENIX Security Symposium (USENIX Security 18).
 
 
 ### Optional readings (if you're really interested in this topic)
