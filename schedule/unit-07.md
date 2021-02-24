@@ -7,6 +7,9 @@
   - [The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study](http://www.guanotronic.com/~serge/papers/isr10.pdf) by Tsai, Egelman, Cranor, and Acquisti. **Discussion lead: Lucia Milica Stacy**
 
 
+### Optional Readings
+
+  - [User Perceptions of Smart Home IoT Privacy](https://dl.acm.org/doi/pdf/10.1145/3274469), by Zheng et al. **Discussion lead: Bryan Gonzalez**
 
 ### Assignments due
 

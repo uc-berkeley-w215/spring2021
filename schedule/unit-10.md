@@ -6,6 +6,7 @@
 
 - He, W., Golla, M., Padhi, R., Ofek, J., Durmuth, M., Fernandes, E., & Ur, B. (2018). [Rethinking access control and authentication for the home internet of things (IoT)](https://www.blaseur.com/papers/usenixsec18.pdf). Proceedings of the 27th USENIX Security Symposium (USENIX Security 18). **Discussion lead: Shawn Blue**
 
+- Fong, K., Hepler, K., Raghavan, R., & Rowland, P. (2018). [Quantifying Consumer Costs of Insecure Internet of Things Devices](https://www.ischool.berkeley.edu/projects/2018/riot-quantifying-consumer-harms). MIMS Final Project 2018. **Discussion lead: Bryan Gonzalez**
 
 
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
