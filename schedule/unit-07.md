@@ -20,8 +20,8 @@
 
 ### Synchronous discussion agenda
 
-  - Response to assignment (15 minutes)
+  - Response to assignment (10 minutes)
 
-  - Paper discussion (45 minutes)
+  - Paper discussion (10 minutes each paper)
 
-  - Project updates (15 minutes)
+  - Project updates (rest of the time available)
