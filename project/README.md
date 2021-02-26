@@ -77,13 +77,17 @@ To motivate your research, please explain the possible impact of your research o
 
 **Please submit at least two paragraphs before the sync session**, and be prepared to answer questions about what you wrote. Send a link to your proposal to the slack group.
 
+### Unit 7, before the live session
+
+Revise your project idea by integrating any feedback you've received.  We recommend following this [project proposal structure](/project/proposals/proposal-structure-with-examples.md) to make it easier to evaluate and compare projects.
+
 ### Unit 8, before the live session
 
-Submit a **one-page project proposal** (10% of course grade).
+Submit a **one-page project proposal** (10% of course grade).  You can start with the [project proposal structure](/project/proposals/proposal-structure-with-examples.md) and fill in related work, add additional questions, and provide more details about your study.
 
 ### Unit 10, before the live session
 
-Submit a **revised proposal**.
+Submit a **revised proposal** including:
 
 1. Research materials needed to execute the study:
 	- study/analysis plan
