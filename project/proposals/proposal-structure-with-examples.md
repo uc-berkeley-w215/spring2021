@@ -10,7 +10,9 @@
 
 *What prior work would you be building on and what did you learn from it?*
 
-#### Example 1: Comparative
+---
+
+### Example 1: Comparative
 
 1. Crypto-currency users with digital wallets
 
@@ -20,7 +22,9 @@
 
 Prior work: Similar to [previous work comparing security strategies of experts to non-experts](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf), we want to compare security strategies of self-reported crypto-currency experts to those with less expertise.
 
-#### Example 2: Measurement
+---
+
+### Example 2: Measurement
 
 1. Crypto-currency users with digital wallets
 
@@ -28,7 +32,9 @@ Prior work: Similar to [previous work comparing security strategies of experts t
 
 3. We can identify how many users might be served by technologies that make reading from, or writing to, these non-digital media more sure or reliable.
 
-#### Example 3: Exploratory
+---
+
+### Example 3: Exploratory
 
 1. Crypto-currency users with digital wallets
 
@@ -36,7 +42,9 @@ Prior work: Similar to [previous work comparing security strategies of experts t
 
 3. We can direct research to focus on providing users with better protection mechanisms that fit the ways they're already comfortable, or help them overcome the barriers to protection mechanisms with which they are not yet comfortable.
 
-#### Example 4: Exploratory
+---
+
+### Example 4: Exploratory
 
 1. Users that have tried out IoT devices in their home
 
@@ -48,7 +56,9 @@ Example questions:
 - If you previously thought about purchasing an IoT device and decided not to, what were your reasons for deciding not to purchase?
 - Did privacy concerns ever factor into your decision to purchase or not purchase an IoT device?  If so, what were your concerns?
 
-#### Example 5: Bad example - Seeking confirmation for a specifc idea
+---
+
+### Example 5: Bad example - Seeking confirmation for a specifc idea
 
 1. Crypto-currency users with digital wallets
 
