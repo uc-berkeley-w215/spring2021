@@ -75,7 +75,7 @@ To motivate your research, please explain the possible impact of your research o
   - Will you be identifying users concerns so that you can better quantify them with a follow-up study so that they can be address down the road?
   - Are there benefits to the study that cannot be expressed as decisions that might be changed or resources that might be allocated differently based on the possible outcomes?
 
-**Please submit at least two paragraphs before the sync session**, and be prepared to answer questions about what you wrote. Send a link to your proposal to the slack group.
+**Please submit at least two paragraphs before the sync session**, and be prepared to answer questions about what you wrote. Share your proposal in the Slack channel.
 
 ### Unit 7, before the live session
 
@@ -87,7 +87,7 @@ Submit a **one-page project proposal** (10% of course grade).  You can start wit
 
 ### Unit 10, before the live session
 
-Submit a **revised proposal** including:
+Revise your proposal to include the following:
 
 1. Research materials needed to execute the study:
 	- study/analysis plan
@@ -95,15 +95,17 @@ Submit a **revised proposal** including:
 	- any material required during the research activities (surveys, recruiting ads, etc.)
 2. Designs, mockups, and prototypes at the appropriate level of fidelity.
 
-At this point you should have considered the ethical aspects of your study design.  
-Quoting *from UW’s IRB Application:*
+Share this revised proposal in the Slack channel.
 
-> * Describe the reasonably foreseeable risks of harm, discomforts, and hazards to the subjects and others of the research procedures. For each harm, discomfort, or hazard:
-> * Describe the magnitude, probability, duration, and/or reversibility of the harm, discomfort, or hazard, AND
-> * Describe how the risks will be reduced or managed
-> Consider possible physical, psychological, social, legal, and economic harms, including possible negative effects on financial standing, employability, insurability, educational advancement or reputation.
-
-Also, you may include how much you would pay to each subject if you ran the experiment.  That depends on how long it takes a subject to go through your full experiment.  An ethical payment would be around US\$12 per hour of work (which is the minimum wage in California).  If for example an interview takes (in average) 15 minutes, you should pay about US$3. One question that usually emerges about this is whether you can pay more (if you have the money, of course). The answer is yes; but you should beware of paying too much because that could be coercive.
+Some aspects of your protocol you might want to consider:
+- Where will you advertise your survey/interview protocol? What text will you use to advertise it? This text is important because it should be brief, neutral, but should spark at some interest in your study.
+- What instructions will you present to your subjects? Same recommendations as above: brief, neutral and to the point. Instructions must be clear above anything else. Have them read by someone not in your group to make sure of that.
+- How long will it take a subject to take your survey/interview? The question is important because that defines how much you should pay each subject, as a proportion of the current minimal wage per hour (in California, that's about $16 per hour). One question that usually emerges about this is whether you can pay more (if you have the money, of course). The answer is yes; but you should beware of paying too much because that could be coercive.
+- Ethical aspects of your study design.  IRB applications often require that you do the following:
+  - Describe the reasonably foreseeable risks of harm, discomforts, and hazards to the subjects and others of the research procedures. For each harm, discomfort, or hazard:
+    - Describe the magnitude, probability, duration, and/or reversibility of the harm, discomfort, or hazard, AND
+    - Describe how the risks will be reduced or managed
+  - Consider possible physical, psychological, social, legal, and economic harms, including possible negative effects on financial standing, employability, insurability, educational advancement or reputation.
 
 
 ### Unit 12, before the live session

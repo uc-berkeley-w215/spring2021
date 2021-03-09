@@ -27,13 +27,9 @@
 
 
 ### Assignments due
-Present your progress in your project. If you have a protocol including an interview/survey, have it taken by at least three friends/relatives and comment on how you changed it based on what you heard/observed. In you don't have an interview/survey yet, please prepare one so you could describe it to the class and receive feedback.
 
-Aspects you may want to consider by now about your protocol:
-- What instructions will you present to your subjects? Same recommendations as above: brief, neutral and to the point. Instructions must be clear above anything else. Have them read by someone not in your group to make sure of that.
-- Where will you advertise your survey/interview protocol? What text will you use to advertise it? This text is important because it should be brief, neutral, but should spark at some interest in your study.
-- How long will it take a subject to take your survey/interview? The question is important because that defines how much you should pay each subject, as a proportion of the current minimal wage per hour (in California, that's about $16 per hour).
-
+- [Revise your project proposal](../project/README.md#unit-10-before-the-live-session)
+- If you have a protocol including an interview/survey, have it taken by at least three friends/relatives and be prepared to comment on how you changed it based on what you heard/observed. In you don't have an interview/survey yet, please prepare one so you could describe it to the class and receive feedback.
 
 
 ### Synchronous discussion agenda
