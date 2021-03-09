@@ -16,7 +16,7 @@
 
 ### Assignment
 
-  - Submit updated drafts of final project plans
+  - Finalize project plans
 
   - Review or pilot study materials for another project team
 

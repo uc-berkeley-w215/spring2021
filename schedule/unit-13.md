@@ -15,8 +15,8 @@
 
 ### Assignments
 
-Help a project team other than (in addition to) your own.
-
+- Work on your final project and paper
+- Help a project team other than (in addition to) your own.
 
 
 ### Synchronous discussion agenda
