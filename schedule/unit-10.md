@@ -29,7 +29,7 @@
 ### Assignments due
 
 - [Revise your project proposal](../project/README.md#unit-10-before-the-live-session)
-- If you have a protocol including an interview/survey, have it taken by at least three friends/relatives and be prepared to comment on how you changed it based on what you heard/observed. In you don't have an interview/survey yet, please prepare one so you could describe it to the class and receive feedback.
+- If you have a protocol including an interview/survey, have it taken by at least three friends/relatives and be prepared to comment on how you changed it based on what you heard/observed. If you don't have an interview/survey yet, please prepare one so you could describe it to the class and receive feedback.
 
 
 ### Synchronous discussion agenda
