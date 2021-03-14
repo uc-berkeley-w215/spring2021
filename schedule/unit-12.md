@@ -15,6 +15,7 @@
 
 ### Assignments due
 
+  - Prepare to present your project study materials
   - Review or pilot at least two other teams’ survey instrument, study design, or other materials
 
 
