@@ -7,6 +7,14 @@ We will track who has led paper discussions here.
 
 * **Shawn Blue**:
   * Rethinking access control and authentication for the home internet of things (IoT), by He et al. (Unit 10, Mar 15)
+  * Your attention please: Designing security-decision UIs to make genuine risks harder to ignore, by Bravo-Lillo et al. (Unit 11, Mar 22)
+
+* **Edward Boehm**:
+  * You’ve Been Warned: An Empirical Study of the Effectiveness of Web Browser Phishing Warnings, by Egelman et al. (Unit 11, Mar 22)
+  * Put your warning where your link is: Improving and evaluating email phishing warnings, by Petelka et al. (Unit 11, Mar 22)
+
+* **Bill Duttweiler**
+  * A Week to Remember: The Impact of Browser Warning Storage Policies, by Weinberger and Felt. (Unit 11, Mar 22)
 
 * **Omar Garcia**:
   * Experimenting at Scale With Google Chrome’s SSL Warning, by Felt et al. (2014). This paper was rehearsed and the recording sent to us before the class. (Unit 5, Feb 8)
