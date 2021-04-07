@@ -4,6 +4,7 @@ We will track who has led paper discussions here.
 
 * **Andrew Bayers**:
   * Privacy Attitudes and Privacy Behavior: Losses, Gains, and Hyperbolic Discounting, by Acquisti and Grossklags. (Unit 7, Mar 1)
+  * Moving from the design of usable security technologies to the design of useful secure applications, by Smetters et al. (Unit 13, Apr 5)
 
 * **Shawn Blue**:
   * Rethinking access control and authentication for the home internet of things (IoT), by He et al. (Unit 10, Mar 15)
@@ -27,9 +28,11 @@ We will track who has led paper discussions here.
   
 * **Pragathi Gopal**:
   * Android permissions: User attention, comprehension, and behavior, by Felt et al. (Unit 12, Mar 29)
+  * Privacy vs Usability: A Qualitative Exploration of Patients' Experiences With Secure Internet Communication With Their General Practitioner, by Tjora et al. (Unit 13, Apr 5)
 
 * **Patrick Gould**:
   * It’s no secret: Measuring the security and reliability of authentication via ‘secret’ questions, by Schechter et al. This paper was rehearsed and the recording sent to us before the class. (Unit 9, Mar 8)
+  * Security automation considered harmful? by Edwards et al. (Unit 13, Apr 5)
 
 * **Bex Kemp**:
   * A Taxonomy of Privacy, by Solove. (Unit 7, Mar 1)
@@ -40,6 +43,7 @@ We will track who has led paper discussions here.
 
 * **Malcolm Mwanga**:
   * Choice architecture and smartphone privacy: There’s a price for that, by Egelman et al. (Unit 12, Mar 29)
+  * When the Weakest Link is Strong: Secure Collaboration in the Case of the Panama Papers, by McGregor et al. (Unit 13, Apr 5)
 
 * **Hakeem Oseni**:
   * The Emperor’s New Security Indicators: An Evaluation of Website Authentication and the Effect of Role Playing on Usability Studies, by Schechter et al. This paper was rehearsed and the recording sent to us before the class. (Unit 3, Jan 25)
