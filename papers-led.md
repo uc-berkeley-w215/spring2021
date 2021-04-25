@@ -36,6 +36,7 @@ We will track who has led paper discussions here.
 
 * **Bex Kemp**:
   * A Taxonomy of Privacy, by Solove. (Unit 7, Mar 1)
+  * What Do Online Behavioral Advertising Privacy Disclosures Communicate to Users? by León et al. (Unit 14, Apr 12)
   
 * **Lucia Milica Stacy**:
   * The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study, by Tsai, Egelman, Cranor, and Acquisti. (Unit 7, Mar 1)
